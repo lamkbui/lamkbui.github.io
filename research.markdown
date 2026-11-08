@@ -1,0 +1,14 @@
+---
+layout: page
+title: Research
+permalink: /research/
+weight: 2
+---
+
+## Upstream Overlap and Downstream Airline Competition (Job Market Paper)
+
+Competing airlines often purchase flight operations from the same regional carrier. I study how these shared suppliers affect airlines’ ability to sustain cooperative pricing through production costs and information about rivals’ costs. Using U.S. domestic airline data for 1998–2016, I document higher fares and smaller fare gaps between rivals with greater common subcontracting. To separate these channels, I use estimated demand and marginal costs to compare sustainable pricing outcomes under different cost and monitoring conditions. Shared suppliers can improve monitoring by providing information about the costs underlying rivals’ fares. Holding monitoring fixed, the fitted cost increases associated with common subcontracting also support greater cooperation by reducing deviation gains relative to the profits lost under punishment. Better monitoring matters most when carriers are less patient and initial detection is weak. In a simulation of the American Airlines–US Airways merger, favorable inheritance of the parents’ quality and productivity generates consumer gains. Accounting for shared suppliers changes the magnitude of these gains because production and information affect pricing incentives both before and after the merger.
+
+## Auction Formats for Drug Procurement: Evidence from Vietnam
+
+How does separating procurement auctions by product quality affect public spending and the composition of drugs purchased? This paper examines Vietnam’s pharmaceutical procurement system, which holds separate auctions for five regulatory quality tiers. Using hypertension drug procurement data from 2013 to 2024, I estimate suppliers’ cost distributions with a nonparametric structural auction model and simulate two alternative designs: a unified auction based solely on price and an auction that adjusts bids using tier-specific quality weights. Both designs reduce procurement expenditures relative to the existing system, with increased competition accounting for more of the savings than shifts toward lower-tier drugs. However, price-only competition favors low-cost, lower-tier suppliers: domestically produced generics meeting basic national manufacturing standards capture approximately 54 percent of the simulated market. Under the specified quality weights, quality-adjusted bidding reduces this share to 50 percent, expands the shares of higher-tier drugs, and yields slightly lower expenditures than the price-only auction. These findings suggest that competition across regulatory tiers can lower procurement spending and that scoring rules can influence the resulting product mix. They also highlight the importance of incorporating quality considerations into procurement design.
